@@ -77,12 +77,6 @@ Advantages of Merge Sort
 	•	Stability: Maintains the relative order of equal elements.
 	•	Predictable Performance: Suitable for large datasets without degrading to O(n²).
 
-Comparison with Other Algorithms
-
-Algorithm	Average Time Complexity	Space Complexity	Stability
-Merge Sort	O(n log n)	O(n)	Stable
-Quick Sort	O(n log n), O(n²) worst	O(log n)	Unstable
-Heap Sort	O(n log n)	O(1)	Unstable
 
 Contributing
 
